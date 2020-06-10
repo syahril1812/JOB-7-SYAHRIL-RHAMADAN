@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "777703480349",
+    "firebase_url": "https://ecommerceappv2.firebaseio.com",
+    "project_id": "ecommerceappv2",
+    "storage_bucket": "ecommerceappv2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:777703480349:android:752f29638c07278c9efaf4",
+        "android_client_info": {
+          "package_name": "id.ac.polbeng.rpl.syahril.EcommerceAppV2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "777703480349-vv3bi2jp8g42n6fi9u2fnodbpg7q1cfj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD16eYa0_TJwtfcvtypH6m4OH5x6bhBOuY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "777703480349-vv3bi2jp8g42n6fi9u2fnodbpg7q1cfj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
